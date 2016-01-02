@@ -1,0 +1,6 @@
+C:\a\aurelia-esri-platform\aurelia-esri-platform\bin\aurelia-esri-platform.dll.config
+C:\a\aurelia-esri-platform\aurelia-esri-platform\bin\aurelia-esri-platform.dll
+C:\a\aurelia-esri-platform\aurelia-esri-platform\bin\aurelia-esri-platform.pdb
+C:\a\aurelia-esri-platform\aurelia-esri-platform\obj\Debug\aurelia-esri-platform.csprojResolveAssemblyReference.cache
+C:\a\aurelia-esri-platform\aurelia-esri-platform\obj\Debug\aurelia-esri-platform.dll
+C:\a\aurelia-esri-platform\aurelia-esri-platform\obj\Debug\aurelia-esri-platform.pdb
