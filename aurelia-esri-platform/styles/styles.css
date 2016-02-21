@@ -40,3 +40,8 @@ body {
     width: 10px;
     background-color: blue;
 }
+
+#main-panel {
+    flex: auto;
+    background-color: red;
+}
