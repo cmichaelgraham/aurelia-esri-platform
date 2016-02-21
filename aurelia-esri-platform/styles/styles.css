@@ -11,8 +11,6 @@ body {
 }
 
 #app-header {
-    height: 50px;
-    min-height: 50px;
     background-color: green;
 }
 
@@ -23,8 +21,6 @@ body {
 }
 
 #app-footer {
-    height: 50px;
-    min-height: 50px;
     background-color: green;
 }
 
