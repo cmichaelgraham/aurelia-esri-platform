@@ -14,6 +14,7 @@ Here are some resources related to [the css flexbox standard](https://drafts.css
 > * [bootstrap 4 alpha](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) (search for flexbox - about 1/3 the way down)
 > * [css tricks guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 > * [w3schools flexbox](http://www.w3schools.com/css/css3_flexbox.asp)
+
 The following layout was created using flexbox.  As the browser window is resized, the header and footer maintain their height (which is set by their content).  The height of the body section grows to fill the remaining space.
 Horizontally, the nav section maintains its fixed width, while the body section grows to fill the remaining space.
 ![image](https://cloud.githubusercontent.com/assets/10272832/13202646/1fee5848-d85f-11e5-9f47-387875ade7dc.png)
