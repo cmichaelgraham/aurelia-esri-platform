@@ -40,26 +40,3 @@ body {
     width: 10px;
     background-color: blue;
 }
-
-
-
-
-
-#body-container {
-    display: flex;
-    flex-direction: column;
-    flex: auto;
-    min-width: 100px;
-}
-
-#nav-menu-container {
-    height: 100px;
-    min-height: 50px;
-    background-color: green;
-}
-
-#body-container {
-    flex: auto;
-    min-height: 100px;
-    background-color: lightgreen;
-}
